@@ -4,9 +4,9 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hello, !");
-         Console.WriteLine("Hello, !");
-          Console.WriteLine("Hello, !");
+        Console.WriteLine("ello, !");
+         Console.WriteLine("ello, !");
+          Console.WriteLine("ello, !");
 
     }
 }
